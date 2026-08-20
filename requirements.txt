@@ -1,0 +1,10 @@
+python-dotenv==1.0.1
+httpx==0.27.2
+beautifulsoup4==4.12.3
+google-search-results==2.4.2
+anthropic==0.39.0
+tenacity==9.0.0
+
+# Optional, only needed if you turn on Playwright fallback in scrape.py
+# for JS-rendered sites (Hemnet/Booli):
+# playwright==1.48.0
